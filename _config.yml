@@ -1,0 +1,14 @@
+layout_spectrum: 0.844001870136708
+typography_spectrum: 0.3918216989841312
+color:
+  brandStrength: 0.6599890752695501
+  lightness: 0.6987036082427949
+  saturation: 0.7416897227521986
+  rhythmicContrast: 0.7540165416430682
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: unreal machinery
